@@ -1,0 +1,175 @@
+
+.content .info h2{
+	color: #226A80;
+	font-size: 55px;
+	font-weight: 800;
+
+}
+
+body{
+	
+	padding: 5px;
+	background-image: url("60dc6d4ddb44aa83f43a18aa_How-to-become-a-professional-web-designer-by-the-end-of-2021_blogHero-min.jpg");
+    background-size: 100%;
+    background-attachment: fixed;
+    height: 100%;
+    width: 100px;	
+    align-items: center;
+	letter-spacing: 10px;
+	text-align: center;
+}
+
+
+form{
+	background-image: url("66-666819_website-design-background-creative-background-image-for-website.jpg");
+	width: 400px;
+    margin: 100px auto;
+	margin-left: 280px;
+	margin-top: 5px;
+    height: 200%;
+    background-opacity: 80%;
+    border-radius: 30px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    border: 3px solid rgba(255, 255, 255, 0.3);
+	
+}
+
+
+legend{
+	
+	color: white;
+	margin-right: 280px;
+	padding: 5px;
+}
+
+.form-control{
+	color: black;
+  display: flex;
+  width: 85%;
+  padding: 15px;
+	 margin-left: 10px;
+}
+
+.btn{
+	color:black;
+	background: orange;
+}
+
+.btn4{
+	color:black;
+	background: aqua;
+}
+		
+
+button{
+	background: aqua;
+color: black;
+  width: 29%;
+  padding: 14px;
+	margin-right: 1px;
+	margin-top: 5px;
+	 margin-bottom: 5px;
+	 border-radius: 10px;
+}
+
+.btn2{
+	background: aqua;
+color: black;
+  width: 91%;
+  padding: 14px;
+	margin-right: 1px;
+	margin-top: 5px;
+	 margin-bottom: 5px;
+}
+
+.btn3{
+background: red;
+color: black;
+  width: 29%;
+  padding: 14px;
+	margin-right: 1px;
+	margin-top: 5px;
+	 margin-bottom: 5px;
+}
+
+
+
+.btn:hover {
+  opacity: .5;
+}
+
+ .btn2:hover {
+  opacity: .5;
+}
+.btn3:hover {
+  opacity: .5;
+}
+
+
+.container{
+
+	margin-top: 5px;
+
+	padding: 30px;
+   width: 40%;
+
+   letter-spacing: 5px;
+   
+
+}
+
+
+h1{
+	
+	align-items: CENTER;
+	margin-top: 200px;
+	margin-left: 380px;
+	padding: 30px;
+    width: 30%;
+    letter-spacing: 3px;
+	
+	
+	
+}
+
+table{
+	
+	width: 500px;
+    margin: 100px auto;
+	margin-left: 180px;
+	margin-top: 10px;
+    height: 300%;
+    border-radius: 0px;
+	letter-spacing: 5px;
+	text-align: center;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+	background: white;
+}
+
+table.list{
+    width:100%;
+}
+
+td, th {
+    border: 3px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(even),table.list thead>tr {
+    background-color: #ffffff;
+}
+
+
+.row{
+
+	margin-top: 5px;
+	margin-right: 50px;
+	padding: 30px;
+	width: 100%;
+
+   letter-spacing: 5px;
+   
+
+}
